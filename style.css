@@ -19,14 +19,13 @@ img{
 .container1{
     display: flex;
     justify-content: center;
-    margin: 80px ;
+    margin: 50px ;
     margin-bottom: 50px;
     gap: 100px;
 }
 .score{
     height: 320px;
     width: 400px;
-    /* border: 2px solid red; */
     padding: 30px;
     box-sizing: border-box;
     border-radius: 20px;
@@ -45,8 +44,7 @@ img{
     margin-top: 30px;
     margin-bottom: 10px;
     display: flex;
-    /* justify-content: space-between; */
-    /* margin-top: 30px; */
+
     
     
 } 
@@ -54,23 +52,17 @@ img{
     width: 50px;
     height: 50px;
     background-color: white;
-    margin: 5px;
     border-radius: 50%;
     margin: 5px;
     color: black;
-    /* display: flex; */
-    /* line-height: 30px; */
     font-weight: bold;
     font-size: 2em;
     padding: 3px;
     box-sizing: border-box;
 
-    /* align-items: center; */
-    /* justify-content: center; */
 
 }
 .scoreboard{
-    /* margin-top: 30px; */
     font-size: 50px;
     font-weight: bold;
 }
